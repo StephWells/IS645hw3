@@ -9,3 +9,5 @@ console.log(`${num1} - ${num2} = ${num1 - num2}`)
 console.log(`${num1} * ${num2} = ${num1 * num2}`)
 console.log(`${num1} * ${num2} = ${num1 * num2}`)
 console.log(`${num1} / ${num2} = ${num1 / num2}`)
+
+console.log("Stephanie Wells - IS 645 HW3 Exercise 3");

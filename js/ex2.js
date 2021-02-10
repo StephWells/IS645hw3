@@ -31,3 +31,5 @@ switch (DayEntered) {
 }
 console.log("You entered: "+ DayEntered)
 console.log("The following day is: " + FollowingDay)
+
+console.log("Stephanie Wells - IS 645 HW3 Exercise 2");

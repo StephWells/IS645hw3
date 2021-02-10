@@ -1,0 +1,191 @@
+Netlify app for exercises 8-19
+
+https://gracious-jang-72580d.netlify.app
+
+Ex 8.
+
+9
+
+4 + 5
+
+45
+
+17
+
+25
+
+1
+
+ 
+
+Ex.9
+
+1
+
+num2 is not defined
+
+
+
+Ex10
+
+Undefined
+
+
+
+Ex 11
+
+11 2 10 102 30 40 10 10
+
+
+
+Ex12
+
+Hello
+
+False
+
+Undefined
+
+
+
+Goodbye
+
+true
+
+Hello
+
+Hello
+
+Hello
+
+Hello
+
+
+
+Ex13. 
+
+true
+
+true
+
+false
+
+false
+
+true
+
+false
+
+false
+
+false
+
+false
+
+false
+
+
+
+Ex14.
+
+The value of f is: 1
+
+
+
+Ex14b
+
+The value of f is: 2
+
+
+
+Ex15a
+
+x = abc
+
+
+
+Ex15b
+
+  x = abc 
+
+x - def 
+
+
+
+16a
+
+x not defined
+
+
+
+16b
+
+blank page
+
+
+
+16c
+
+z is 6
+
+
+
+17a
+
+blank page
+
+
+
+17b
+
+x is not defined
+
+
+
+17c
+
+z is 6
+
+
+
+18a
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+
+18b
+
+Over 5000 times, my page crashed
+
+
+
+19a
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+
+19b
+
+1
+
+3
+
+5

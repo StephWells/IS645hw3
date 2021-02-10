@@ -12,3 +12,4 @@ else{
     if (grade >= 61 && grade <= 90 ) {console.log("Your grade standing is Junior ")};
     if (grade >= 91) {console.log("Your grade standing is Senior ")};
 }
+console.log("Stephanie Wells- IS 645 HW3 Exercise 1");
